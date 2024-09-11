@@ -383,6 +383,12 @@ Your choice:
     - [Algorithms in C++, Parts 1-4: Fundamentals, Data Structure, Sorting, Searching](https://www.amazon.com/Algorithms-Parts-1-4-Fundamentals-Structure/dp/0201350882/)
     - [Algorithms in C++ Part 5: Graph Algorithms](https://www.amazon.com/Algorithms-Part-Graph-3rd-Pt-5/dp/0201361183/)
 
+### C#
+-Dotnet Tutorials (website that lists different books regarding DSA and C#)
+
+-[C# Dotnet](https://dotnettutorials.net/lesson/most-recommended-data-structure-and-algorithms-books-using-csharp/)   
+
+
 **[⬆ back to top](#table-of-contents)**
 
 ## Interview Prep Books
@@ -416,7 +422,7 @@ This list grew over many months, and yes, it got out of hand.
 
 Here are some mistakes I made so you'll have a better experience. And you'll save months of time.
 
-### 1. You Won't Remember it All
+### [x] 1. You Won't Remember it All
 
 I watched hours of videos and took copious notes, and months later there was much I didn't remember. I spent 3 days going
 through my notes and making flashcards, so I could review. I didn't need all of that knowledge.
